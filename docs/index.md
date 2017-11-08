@@ -7,7 +7,7 @@ documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rladies/starter-kit-bookdown
+github-repo: gdequeiroz/personal-resources
 url: 'xxx'
 description: "Personal Resources"
 ---
