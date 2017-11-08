@@ -1,7 +1,7 @@
 --- 
 title: "Personal Resources"
 author: "Gabriela de Queiroz"
-date: "`r Sys.Date()`"
+date: "2017-11-08"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
