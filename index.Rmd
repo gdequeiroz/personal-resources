@@ -1,0 +1,19 @@
+--- 
+title: "My personal library"
+author: "Gabriela de Queiroz"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: gdequeiroz/personal-resources
+description: ""
+---
+
+# Why do I need this?
+
+I need a place to save links and tips so I can easily find.
+
+
